@@ -6,5 +6,8 @@ Repositorio criado para o Desafio de Projeto
 ## Links Úteis
 [Sintaxe basica MarkDown](https://www.markdownguide.org/basic-syntax/)
 
+## Explicação
+Coloquei no txt de explicação algumas informações que ja sabia e estavam anotadas sobre o Git/GitHub.
+
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
